@@ -6,4 +6,4 @@ Once, the model has been trained with a given dataset, it is ready to be used an
 You can now upload the images and it will tell you which category from the given datset, the new image fits best with confidence scored lying from 0-1.
 
 Here is a video demonstration of my Project, Please Have a Look for Better Understanding
-"   "
+" https://youtu.be/MfzeYXprqD0 "
